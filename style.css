@@ -1,0 +1,17 @@
+h1 {
+  font-family: 'Inter', sans-serif;
+}
+p {
+  font-family: 'Lexend Deca', sans-serif;
+}
+.back {
+  background-image: url(images/image-header-desktop.jpg);
+  background-color: #4a275f;
+  background-blend-mode: overlay;
+}
+.back1 {
+  background-color: #1c1938;
+}
+.card {
+  background-color: rgba(240, 248, 255, 0) !important;
+}
